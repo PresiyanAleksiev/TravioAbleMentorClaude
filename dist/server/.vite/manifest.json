@@ -1,0 +1,194 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/2025/Desktop/Travio-AbleMentor-master/src/styles.css": {
+    "file": "assets/styles-cSbQG3iK.css",
+    "src": "C:/Users/2025/Desktop/Travio-AbleMentor-master/src/styles.css"
+  },
+  "_arrow-left-C8nokORl.js": {
+    "file": "assets/arrow-left-C8nokORl.js",
+    "name": "arrow-left",
+    "imports": [
+      "_router-BFR-v_9l.js"
+    ]
+  },
+  "_createServerRpc-B4ahQwrZ.js": {
+    "file": "assets/createServerRpc-B4ahQwrZ.js",
+    "name": "createServerRpc",
+    "imports": [
+      "_server-Dg-eis91.js"
+    ]
+  },
+  "_leaflet-src-C_KDAvwz.js": {
+    "file": "assets/leaflet-src-C_KDAvwz.js",
+    "name": "leaflet-src",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js"
+    ]
+  },
+  "_router-BFR-v_9l.js": {
+    "file": "assets/router-BFR-v_9l.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js"
+    ],
+    "dynamicImports": [
+      "src/routes/results.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component",
+      "src/routes/landmark.$slug.tsx?tsr-split=component",
+      "src/routes/landmark.$slug.tsx?tsr-split=notFoundComponent"
+    ],
+    "assets": [
+      "assets/styles-cSbQG3iK.css"
+    ]
+  },
+  "_server-Dg-eis91.js": {
+    "file": "assets/server-Dg-eis91.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/lib/bdz.functions.ts?tss-serverfn-split",
+      "src/lib/directions.functions.ts?tss-serverfn-split",
+      "_router-BFR-v_9l.js",
+      "src/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_ticket-CqujGuI3.js": {
+    "file": "assets/ticket-CqujGuI3.js",
+    "name": "ticket",
+    "imports": [
+      "_router-BFR-v_9l.js"
+    ]
+  },
+  "_types-BoWyrJuk.js": {
+    "file": "assets/types-BoWyrJuk.js",
+    "name": "types"
+  },
+  "_worker-entry-CxtW4wCD.js": {
+    "file": "assets/worker-entry-CxtW4wCD.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-Dg-eis91.js"
+    ]
+  },
+  "node_modules/leaflet/dist/leaflet.css": {
+    "file": "assets/leaflet-CIGW-MKW.css",
+    "src": "node_modules/leaflet/dist/leaflet.css"
+  },
+  "node_modules/react-leaflet/lib/index.js": {
+    "file": "assets/index-C0jEGPEs.js",
+    "name": "index",
+    "src": "node_modules/react-leaflet/lib/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js",
+      "_leaflet-src-C_KDAvwz.js",
+      "_router-BFR-v_9l.js"
+    ]
+  },
+  "src/lib/bdz.functions.ts?tss-serverfn-split": {
+    "file": "assets/bdz.functions-Bo3uSpV6.js",
+    "name": "bdz.functions",
+    "src": "src/lib/bdz.functions.ts?tss-serverfn-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_createServerRpc-B4ahQwrZ.js",
+      "_server-Dg-eis91.js",
+      "_types-BoWyrJuk.js"
+    ]
+  },
+  "src/lib/directions.functions.ts?tss-serverfn-split": {
+    "file": "assets/directions.functions-DrKV9jVV.js",
+    "name": "directions.functions",
+    "src": "src/lib/directions.functions.ts?tss-serverfn-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_createServerRpc-B4ahQwrZ.js",
+      "_server-Dg-eis91.js",
+      "_types-BoWyrJuk.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DqHy5p2z.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js",
+      "_router-BFR-v_9l.js"
+    ]
+  },
+  "src/routes/landmark.$slug.tsx?tsr-split=component": {
+    "file": "assets/landmark._slug-BrpZUIV3.js",
+    "name": "landmark._slug",
+    "src": "src/routes/landmark.$slug.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js",
+      "_router-BFR-v_9l.js",
+      "_arrow-left-C8nokORl.js",
+      "_ticket-CqujGuI3.js"
+    ]
+  },
+  "src/routes/landmark.$slug.tsx?tsr-split=notFoundComponent": {
+    "file": "assets/landmark._slug-BkHp-_Wp.js",
+    "name": "landmark._slug",
+    "src": "src/routes/landmark.$slug.tsx?tsr-split=notFoundComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js",
+      "_router-BFR-v_9l.js",
+      "_arrow-left-C8nokORl.js"
+    ]
+  },
+  "src/routes/results.tsx?tsr-split=component": {
+    "file": "assets/results-DXAQ-Xpy.js",
+    "name": "results",
+    "src": "src/routes/results.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-Dg-eis91.js",
+      "_router-BFR-v_9l.js",
+      "_types-BoWyrJuk.js",
+      "_arrow-left-C8nokORl.js",
+      "_ticket-CqujGuI3.js"
+    ],
+    "dynamicImports": [
+      "node_modules/react-leaflet/lib/index.js",
+      "_leaflet-src-C_KDAvwz.js"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-CHi88XUr.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CxtW4wCD.js",
+      "_server-Dg-eis91.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-Im_Asjum.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-CxtW4wCD.js"
+    ]
+  }
+}
